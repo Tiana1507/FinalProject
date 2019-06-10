@@ -33,7 +33,7 @@
       Input a positive number (will be used as a random seed): <input type="text" name="arg1"><br>
       <br>
       <input type="submit" value="Go!">
-    </form>
+    </form> 
 
   </body>
 </html>
