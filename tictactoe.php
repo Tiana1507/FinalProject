@@ -1,4 +1,4 @@
-html>
+<html>
   <head>
     <title>Tictactoe Simulation</title>
   </head>
